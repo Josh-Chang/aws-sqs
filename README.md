@@ -1,7 +1,7 @@
 # aws-sqs
 An example for sending and receiving sqs messages between a producer and consumer.
 
-## prerequisite
+## Prerequisite
 - [Create an IAM user and a SQS queue](https://fate-othnielia-659.notion.site/SQS-7017c15abbe34fec883f373e2253b92e)
 
 ## Installation
